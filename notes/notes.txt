@@ -1,0 +1,1 @@
+-XX:+FlightRecorder -XX:StartFlightRecording=duration=200s,filename=knative.jfr -jar target/hello-world-api-1.0-SNAPSHOT.jar
